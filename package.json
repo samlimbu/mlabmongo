@@ -1,0 +1,30 @@
+{
+  "name": "mlabmongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samlimbu/mlabmongo.git"
+  },
+  "author": "sam limbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samlimbu/mlabmongo/issues"
+  },
+  "homepage": "https://github.com/samlimbu/mlabmongo#readme",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "dep1": "^1.0.0",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "mongodb": "*"
+  }
+}
